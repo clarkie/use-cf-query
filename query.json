@@ -1,0 +1,32 @@
+{
+    "COLUMNS": [
+        "CLIENT_ID",
+        "CLIENT_EMAIL",
+        "CLIENT_FIRSTNAME",
+        "CLIENT_LASTNAME",
+        "ORG_NAME"
+    ],
+    "DATA": [
+        [
+            1,
+            "bob@bob.bob",
+            "Bob",
+            "B",
+            "Apple"
+        ],
+        [
+            2,
+            "clarkie@clarkie.com",
+            "Andy",
+            "Clarke",
+            "Concrete"
+        ],
+        [
+            3,
+            "jimbo@jimbo.com",
+            "James",
+            "Jackson",
+            "Google"
+        ]
+    ]
+}
